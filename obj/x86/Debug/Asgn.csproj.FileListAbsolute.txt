@@ -1,2 +1,0 @@
-C:\Users\luke\Documents\DAA300Asgn_Base\obj\x86\Debug\Asgn.exe
-C:\Users\luke\Documents\DAA300Asgn_Base\obj\x86\Debug\Asgn.pdb
